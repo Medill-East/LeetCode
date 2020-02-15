@@ -1,4 +1,4 @@
-public class Solution {
+public class Solution1342 {
     ///202002142314
     public int NumberOfSteps (int num) {
         int step = 0;
