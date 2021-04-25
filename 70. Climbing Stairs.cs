@@ -16,6 +16,8 @@ public class Solution {
                 b = temp+b;
             }
             return b;
+
+            //return ClimbStairs(n-1)+ClimbStairs(n-2);
         }
     }
 
