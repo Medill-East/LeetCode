@@ -1,4 +1,4 @@
-public class Solution {
+public class Solution13 {
   public int RomanToInt (string s) {
     // string a = "III";
     // System.Console.WriteLine (a[0]);

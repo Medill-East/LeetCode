@@ -1,4 +1,4 @@
-public class Solution {
+public class Solution53 {
     //202002170126
     public int MaxSubArray(int[] nums) {
         int result = nums[0];                   //设定结果为第一个

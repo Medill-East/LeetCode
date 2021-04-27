@@ -1,4 +1,4 @@
-public class Solution {
+public class Solution70 {
     //20200218 斐波那契
     public int ClimbStairs(int n) {
         //F(n) = F(n-1) + F(n-2)

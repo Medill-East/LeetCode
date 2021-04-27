@@ -1,12 +1,12 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     public int val;
- *     public ListNode next;
- *     public ListNode(int x) { val = x; }
- * }
- */
-public class Solution {
+
+  //Definition for singly-linked list.
+  public class ListNode {
+      public int val;
+      public ListNode next;
+      public ListNode(int x) { val = x; }
+  }
+ 
+public class Solution21 {
     //202002170036
     public ListNode MergeTwoLists(ListNode l1, ListNode l2) {
         ListNode result = new ListNode(0);

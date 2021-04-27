@@ -1,4 +1,4 @@
-public class Solution {
+public class Solution20 {
     //202002160116
     public bool IsValid(string s) {
     //     //  string[] strArray = s.Split(""); //字符串转数组
